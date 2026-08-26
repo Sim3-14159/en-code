@@ -36,7 +36,7 @@ Output "Hello, World!".
 ### Fibonacci
 ```py
 Calculating the [n](th) Fibonacci number does this:
-  If nth is less than or equal to 1 then return n
+  If n is less than or equal to 1 then return n
   Otherwise, return calculate the n - 1 Fibonacci number + calculate the n - 2 Fibonacci number.
 
 Calculate the 5th Fibonacci number and set the answer to that.
